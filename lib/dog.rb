@@ -1,3 +1,3 @@
 class Dog
-  pepper = Dog.new
+  lassie = Dog.new
 end
